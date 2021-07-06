@@ -1,0 +1,4 @@
+Data wykonania: Tue, 06 Jul 2021 15:35:35 +0200
+ilosc slow: 20
+minimum znakow: 10
+maximum znakow: 11
